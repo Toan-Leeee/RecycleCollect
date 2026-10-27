@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.RecycleCollect" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#166B50</item>
+        <item name="colorPrimaryVariant">#12573F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#D85A47</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F5F8F6</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">#F5F8F6</item>
+        <item name="android:colorAccent">#166B50</item>
+    </style>
+</resources>
